@@ -1,3 +1,8 @@
-Primeiro dia de projeto:
+Primeiro dia de projeto 27/02/2023 :
   Fizemos a verificação das máquinas e instalação dos sistemas, utilizando 3 máquinas e 3 sistemas diferentes; pfsense, Windows Server 2012 R2 e Windows 10, ambos
     utilizando o Rufus para a instalação das ISO no pendrive.
+Dias 28/02 e 01/02: Demos inicio as configurações básicas dos sistemas. No pfSense, inserimos a configuração básica de ip na máquina física e estamos avançando para 
+  o web configurator; no Windows Server, instalamos o AD DS, demos inicio a configuração do DNS e DHCP e estamos fazendo a criação dos usuários e pastas como requisitado.
+    Demos inicio também na configuração do roteador D-Link DIR-819, de cara tivemos uma série de dificuldades em fazer a conexão com a internet por conta de algum
+      provavel erro de configuração, mas acredito que já estamos resolvendo. Assim que resolvido estaremos partindo para o web configurator do pfSense e os procedimentos
+        seguintes.
