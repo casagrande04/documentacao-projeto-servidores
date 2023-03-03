@@ -6,3 +6,6 @@ Dias 28/02 e 01/02: Demos inicio as configurações básicas dos sistemas. No pf
     Demos inicio também na configuração do roteador D-Link DIR-819, de cara tivemos uma série de dificuldades em fazer a conexão com a internet por conta de algum
       provavel erro de configuração, mas acredito que já estamos resolvendo. Assim que resolvido estaremos partindo para o web configurator do pfSense e os procedimentos
         seguintes.
+Dia 02/02: Dando continuidade ao Windows Server, estamos cumprindo os desafios propostos, quase tudo está pronto sobre essa parte mas ainda estamos com dificuldade no
+  roteador e pfSense, nós resetamos o roteador diversas vezes, configuramos, ele dá certo mas por algum motivo ele volta a não funcionar, ainda não identificamos se é
+    um problema de configuração ou algum problema físico do aparelho. O grupo até que está caminhando mas com algumas desavenças e dificuldades.
