@@ -9,6 +9,8 @@ Dias 28/02 e 01/03: Demos inicio as configurações básicas dos sistemas. No pf
 Dia 02/03: Dando continuidade ao Windows Server, estamos cumprindo os desafios propostos, quase tudo está pronto sobre essa parte mas ainda estamos com dificuldade no
   roteador e pfSense, nós resetamos o roteador diversas vezes, configuramos, ele dá certo mas por algum motivo ele volta a não funcionar, ainda não identificamos se é
     um problema de configuração ou algum problema físico do aparelho. O grupo até que está caminhando mas com algumas desavenças e dificuldades.
-Dia 03/03: Foi necessário refazermos a configuração de DNS, roteador e a organização dos cabos de rede; tivemos problema de organização mas agora estamos mais              direcionados.
+Dia 03/03: Foi necessário refazermos a configuração de DNS, roteador e a organização dos cabos de rede; tivemos problema de organização mas agora estamos mais direcionados.
 Semana do dia 6/03 ao dia 10/03: Demos mais atenção a alguns detalhes e testes que deviam ser feitos e continuamos a fazer os desafios para que funcionem da melhor
-  forma; A criação dos sites foi feita em HTML utilizando o VSCode e já estão hospedados e em funcionamento no Windows Server com a ferramenta IIS. Tivemos problema com    a instalação da VM com Ubuntu no Windows Server, então por conta disso estamos refazendo em um notebook com Windows 10. O projeto parece estar bem encaminhado para       esta última semana.
+  forma; A criação dos sites foi feita em HTML utilizando o VSCode e já estão hospedados e em funcionamento no Windows Server com a ferramenta IIS. Tivemos problema com 
+    a instalação da VM com Ubuntu no Windows Server, então por conta disso estamos refazendo em um notebook com Windows 10. O projeto parece estar bem encaminhado para 
+      esta última semana.
