@@ -14,3 +14,5 @@ Semana do dia 6/03 ao dia 10/03: Demos mais atenção a alguns detalhes e testes
   forma; A criação dos sites foi feita em HTML utilizando o VSCode e já estão hospedados e em funcionamento no Windows Server com a ferramenta IIS. Tivemos problema com 
     a instalação da VM com Ubuntu no Windows Server, então por conta disso estamos refazendo em um notebook com Windows 10. O projeto parece estar bem encaminhado para 
       esta última semana.
+Dia 13/03: Dando os últimos toques do projeto, fizemos a instalação e configuração do Apache2 e mySQL, iremos em seguida fazer os mesmos procedimentos com o Tomcat e
+  fazer os últimos desafios propostos restantes.
